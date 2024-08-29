@@ -1,0 +1,121 @@
+{
+  "allvideos": [
+    {
+      "id": "02",
+      "name": "avesham",
+      "url": "https://th.bing.com/th/id/OIP.yRAeJYYp6kE0zDyp09VkPwAAAA?rs=1&pid=ImgDetMain",
+      "link": "https://www.youtube.com/embed/HkvVaj_28C8"
+    },
+    {
+      "id": "04",
+      "name": "Leo",
+      "url": "https://assetscdn1.paytm.com/images/cinema/Leo-app-e6032730-a462-11ed-9858-d143c091363e.jpg",
+      "link": "https://www.youtube.com/embed/ZdMZ40GSVmc"
+    },
+    {
+      "id": "05",
+      "name": "Vikram",
+      "url": "https://th.bing.com/th/id/OIP.ug-8zKQx82ezvCRqnVolwQHaLP?rs=1&pid=ImgDetMain",
+      "link": "https://www.youtube.com/embed/OsLCY3vz3t8"
+    },
+    {
+      "id": "11",
+      "name": "Thangalaan",
+      "url": "https://images.ottplay.com/images/thangalaan-1723731251.jpg",
+      "link": "https://www.youtube.com/embed/ADRo2u8uxnA"
+    }
+  ],
+  "history": [
+    {
+      "name": "King of Kotha",
+      "link": "https://www.youtube.com/embed/VzT2xurZrbI",
+      "timeStamp": "08/21/2024, 03:29:16 PM",
+      "id": 6
+    },
+    {
+      "name": "sdfgh",
+      "link": "https://www.youtube.com/embed/ZWwboBWlxdc",
+      "timeStamp": "08/22/2024, 01:34:56 PM",
+      "id": 14
+    },
+    {
+      "name": "Thangalaan",
+      "link": "https://www.youtube.com/embed/ADRo2u8uxnA",
+      "timeStamp": "08/22/2024, 01:35:02 PM",
+      "id": 15
+    },
+    {
+      "name": "Leo",
+      "link": "https://www.youtube.com/embed/ZdMZ40GSVmc",
+      "timeStamp": "08/22/2024, 01:35:12 PM",
+      "id": 16
+    },
+    {
+      "name": "Vikram",
+      "link": "https://www.youtube.com/embed/OsLCY3vz3t8",
+      "timeStamp": "08/22/2024, 01:36:29 PM",
+      "id": 17
+    },
+    {
+      "name": "avesham",
+      "link": "https://www.youtube.com/embed/HkvVaj_28C8",
+      "timeStamp": "08/22/2024, 02:26:31 PM",
+      "id": 18
+    },
+    {
+      "name": "avesham",
+      "link": "https://www.youtube.com/embed/HkvVaj_28C8",
+      "timeStamp": "08/27/2024, 01:43:32 PM",
+      "id": 19
+    },
+    {
+      "name": "avesham",
+      "link": "https://www.youtube.com/embed/HkvVaj_28C8",
+      "timeStamp": "08/27/2024, 01:43:40 PM",
+      "id": 20
+    },
+    {
+      "name": "Leo",
+      "link": "https://www.youtube.com/embed/ZdMZ40GSVmc",
+      "timeStamp": "08/27/2024, 01:43:48 PM",
+      "id": 21
+    },
+    {
+      "name": "King of Kotha",
+      "link": "https://www.youtube.com/embed/VzT2xurZrbI",
+      "timeStamp": "08/27/2024, 02:00:51 PM",
+      "id": 22
+    },
+    {
+      "name": "Thangalaan",
+      "link": "https://www.youtube.com/embed/ADRo2u8uxnA",
+      "timeStamp": "08/27/2024, 02:26:41 PM",
+      "id": 23
+    },
+    {
+      "name": "Vikram",
+      "link": "https://www.youtube.com/embed/OsLCY3vz3t8",
+      "timeStamp": "08/28/2024, 03:56:24 PM",
+      "id": 24
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "CategoryName": "movie",
+      "allvideos": [
+        {
+          "id": "05",
+          "name": "Vikram",
+          "url": "https://th.bing.com/th/id/OIP.ug-8zKQx82ezvCRqnVolwQHaLP?rs=1&pid=ImgDetMain",
+          "link": "https://www.youtube.com/embed/OsLCY3vz3t8"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "CategoryName": "trailers",
+      "allvideos": []
+    }
+  ]
+}
